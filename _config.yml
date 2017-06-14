@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+webrick:
+  headers:
+    My-Header: Fengma blog
+    My-Other-Header: Fengma blog
